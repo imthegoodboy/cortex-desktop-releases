@@ -1,0 +1,8 @@
+{
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "apkUrl": "https://github.com/imthegoodboy/cortex-desktop-releases/releases/download/v7.1.0/Cortex-Android-1.0.1.apk",
+  "sha256": "0b21e674b2122a9c1894b12a0c81939af0697c27afbda37c82581a6532ecbe07",
+  "minSupportedVersionCode": 1,
+  "notes": "Cortex now tells you inside the app when a new version is out, and installs it after you confirm."
+}
